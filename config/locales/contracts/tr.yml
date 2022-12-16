@@ -1,0 +1,8 @@
+---
+tr:
+  contracts:
+    params:
+      email: E-posta
+      password: Şifre
+      password_confirmation: Şifre onayı
+      reset_password_token: Şifre sıfırlama jetonu

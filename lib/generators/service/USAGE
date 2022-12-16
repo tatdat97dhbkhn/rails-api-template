@@ -1,0 +1,9 @@
+Description:
+    Creates a new service
+
+Example:
+    bin/rails generate service Facebook::Ad current_user params
+
+    This will create:
+        app/services/facebook/ad/create_service.rb
+        test/services/facebook/ad/create_service_test.rb
